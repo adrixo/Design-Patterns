@@ -1,0 +1,1 @@
+//In software engineering, the blackboard pattern is a behavioral design pattern that provides a computational framework for the design and implementation of systems that integrate large and diverse specialized modules, and implement complex, non-deterministic control strategies.
